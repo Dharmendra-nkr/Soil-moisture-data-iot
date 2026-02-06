@@ -2,7 +2,7 @@
 
 An ESP8266-based IoT system that monitors soil moisture levels in real-time and sends data to ThingSpeak cloud platform for visualization and analysis.
 
-![ThingSpeak Dashboard](images/thingspeak_dashboard.png)
+![ThingSpeak Dashboard](D:\GitREPOS\Soil_moisture_iot\images\thinkspeak_dashboard.png)
 *Real-time soil moisture monitoring dashboard on ThingSpeak*
 
 ## 📋 Overview
